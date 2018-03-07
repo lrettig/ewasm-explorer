@@ -1,5 +1,7 @@
 # ewasm explorer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ewasm/ewasm-explorer.svg)](https://greenkeeper.io/)
+
 Minimal account explorer for ewasm testnet. Fully client-side, communicates with testnet client over json-rpc. Use [genesis file](https://github.com/ewasm/testnet/pull/17/) with ewasm contracts.
 
 ## Available Scripts
